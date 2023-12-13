@@ -1,5 +1,9 @@
 # mf-chat
-microfrontend chat colaborativo
 
-Debido a diferentes problemas, debi subir el repositorio fuera de la organizacion
-LINK: https://github.com/DiegoAlvarado-GitHub/mf-chat
+para ejecutar usar los comandos:
+    yarn
+    yarn dev
+
+url: http://localhost:3000
+
+respositorio original: https://github.com/ahoward2/nest-react-websockets
